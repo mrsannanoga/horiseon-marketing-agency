@@ -10,7 +10,7 @@ The webpage has been improved by adding semantic HTML elements to the basecode a
 
 The newest version of the [Horiseon Webpage](https://mrsannanoga.github.io/horiseon-marketing-agency/#search-engine-optimization) is deployed and live to audience.
 
-![Screenshot](assets/images/final-project-screenshot.jpeg) 
+![Screenshot](assets/images/screencapture-mrsannanoga-github-io-horiseon-marketing-agency-2022-11-28-11_50_14.png) 
 
 ## Installation
 
