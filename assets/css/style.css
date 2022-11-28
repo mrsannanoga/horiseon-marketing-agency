@@ -127,14 +127,11 @@ a {
     text-align: center;
     font-size: 2vw;
 }
-
+/*icon's max width changed to lower*/
 .benefit-with-icon img {
     display: block;
+    max-width: 75%;
     margin: 10px auto;
-    max-width: 100%;
-    height: auto;
-    width: auto\9;
-    position: relative;
 }
 
 .benefit-with-icon p {
